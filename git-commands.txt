@@ -1,0 +1,7 @@
+commands  ------ functions
+git init -----create a new local repository
+git add <filename> 0r git add * ----- add files
+git commit -m "Commit message" ----- commit changes to head
+git commit -a -----Commit any files you've added with git add
+git push origin master ----- push
+git status -----List the files you've changed and those you still need to add or commit
